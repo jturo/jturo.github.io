@@ -10,13 +10,17 @@ include_in_header: false
 ## Diensteanbieter
 
 Jo-Martin Turowski
+
 Rückertstraße 15
+
 10627 Berlin
+
 Deutschland
 
 ## Kontaktmöglichkeiten
 
 E-Mail-Adresse: info@musterschueler.xyz
+
 Kontaktformular: http://musterschueler.xyz
 
 ## Haftungs- und Schutzrechtshinweise
