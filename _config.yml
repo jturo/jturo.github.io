@@ -34,41 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Schnelle Übersicht
+    description                           : Greife direkt auf deine zuletzt verwendeten Listen zu und checke mit einem Blick ihren Fortschritt
+    fontawesome_icon_name                 : sync
+    
+  - title                                 : Ein-Klick Bedienung
+    description                           : Erstelle ruck, zuck neue Listen für Hausaufgaben, Eltern-Unterschriften, etc.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Leicht verständliches Design
+    description                           : Verliere nie den Überblick über die Aufgaben deiner Schüler.
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    
+  - title                                 : Light & Dark Mode
+    description                           : Verwende den Light oder Dark Mode, so wie es für deine Augen am angenehmsten ist.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Schüler-Import
+    description                           : Erstelle Schüler einzeln, kopiere sie von bestehenden Kursen oder importiere sie via csv Datei.
+    fontawesome_icon_name                 : play-circle
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Listen-Export
+    description                           : Exportiere deine Listen als csv Datei, z.B. zur Auswertung oder Zeugniserstellung.
+    fontawesome_icon_name                 : external-link-alt
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
