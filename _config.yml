@@ -36,23 +36,23 @@ features                                  :
 
   - title                                 : Schnelle Übersicht
     description                           : Greife direkt auf deine zuletzt verwendeten Listen zu und checke mit einem Blick ihren Fortschritt
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Ein-Klick Bedienung
     description                           : Erstelle ruck, zuck neue Listen für Hausaufgaben, Eltern-Unterschriften, etc.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : mouse-pointer
     
   - title                                 : Leicht verständliches Design
     description                           : Verliere nie den Überblick über die Aufgaben deiner Schüler.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
     
   - title                                 : Light & Dark Mode
     description                           : Verwende den Light oder Dark Mode, so wie es für deine Augen am angenehmsten ist.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : yin-yang
 
   - title                                 : Schüler-Import
     description                           : Erstelle Schüler einzeln, kopiere sie von bestehenden Kursen oder importiere sie via csv Datei.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : file-import
 
   - title                                 : Listen-Export
     description                           : Exportiere deine Listen als csv Datei, z.B. zur Auswertung oder Zeugniserstellung.
