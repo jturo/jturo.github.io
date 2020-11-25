@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Privacy Policy
+title: Datenschutzerklärung
 include_in_header: false
 ---
 
-**Last updated**  
+**Zuletzt aktualisiert**  
 26.11.2020
 
 # Datenschutzerklärung
