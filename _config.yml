@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Jo Turowski                                
-your_link                                 : http://musterschueler.xyz                     
+your_link                                 : https://www.reddit.com/r/teacherlistsapp/                     
 your_city                                 : Berlin                                
 email_address                             : info@musterschueler.xyz
 facebook_username                         :                                           
@@ -89,10 +89,10 @@ feature_text_color                        : "#666666"
 feature_icons_foreground_color            : "#ffffff"
 feature_icons_background_color            : "#ffb000"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#ffb000"
 
-footer_text_color                         : "#1d63ea"
+footer_text_color                         : "#666666"
 
 
 
